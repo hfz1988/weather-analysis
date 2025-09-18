@@ -69,10 +69,17 @@ Visualisasi ini menunjukkan:
 
 ### Struktur Repositori / Repository Structure
 ```text
-├── Weather Analysis.ipynb   # Notebook utama / Main notebook
+├── data/
+│   └── Weather.db
 ├── images/
-│   └── extreme_heat_cold_windy.png
-└── README.md
+│   ├── extreme_heat_cold_windy.png
+│   └── sql_output.png
+├── notebooks/
+│   └── Weather Analysis.ipynb
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ### Kontak / Contact
