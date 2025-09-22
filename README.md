@@ -41,6 +41,7 @@ ORDER BY year_month;
 
 ---
 
+🇮🇩 **Bahasa Indonesia**
 📊 **Insight Interpretasi Chart**  
 Visualisasi ini menunjukkan:  
 1. **Hari dingin ekstrem** (<32 °F) lebih sering terjadi dibanding hari panas ekstrem (>90 °F) dan hari berangin ekstrem (>20 mph).  
@@ -55,6 +56,22 @@ Visualisasi ini menunjukkan:
 - **🚨 Peringatan Dini**: Bahan untuk warning cuaca berangin ekstrem.  
 - **🏗️ Perencanaan Infrastruktur**: Pertimbangan konstruksi & jaringan listrik.  
 - **🎪 Aktivitas Luar Ruangan**: Panduan event, olahraga, atau pariwisata.  
+
+🇬🇧 **English Version**
+📊 **Chart Interpretation Insight**
+This visualization shows:
+1. **Extreme cold days** (<32 °F) occur more frequently than extreme hot days (>90 °F) and extreme windy days (>20 mph).
+2. The number of **extreme cold days** increases sharply at the end of the year (October–December), peaking in November.
+3. **Extreme hot days** only occur in summer (July–August) with relatively few occurrences (≤ 6 days/month).
+4. **Extreme windy days** occur frequently in early spring (March) and winter (December).
+5. This pattern describes a region with **a four-season climate**, with winters being more extreme than summers.
+
+### 💡 Potential for Further Data Utilization
+- **⚡ Energy Planning**: Predict electricity demand for heating & air conditioning.
+- **🛍️ Retail Industry**: Adjust seasonal product inventory (jackets, fans) according to extreme weather patterns.
+- **🚨 Early Warning**: Material for extreme wind weather warnings.
+- **🏗️ Infrastructure Planning**: Considerations for construction and electrical networks.
+- **🎪 Outdoor Activities**: Guidelines for events, sports, or tourism.
 
 ---
 
@@ -86,4 +103,4 @@ Visualisasi ini menunjukkan:
 📧 Email: hfzmustafa07@gmail.com  
 LinkedIn: https://www.linkedin.com/in/hafiz-mustafa-harras-62914b56  
 
-🌐 Portfolio Repository: [https://github.com/hfzmustafa07/data-analytics-portfolio](https://github.com/hfz1988/data-analytics-portfolio-hafiz)
+🌐 Portfolio Repository: https://github.com/hfz1988/data-analytics-portfolio-hafiz
