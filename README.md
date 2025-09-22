@@ -41,7 +41,7 @@ ORDER BY year_month;
 
 ---
 
-🇮🇩 **Bahasa Indonesia**
+🇮🇩 **Bahasa Indonesia**  
 📊 **Insight Interpretasi Chart**  
 Visualisasi ini menunjukkan:  
 1. **Hari dingin ekstrem** (<32 °F) lebih sering terjadi dibanding hari panas ekstrem (>90 °F) dan hari berangin ekstrem (>20 mph).  
@@ -50,23 +50,23 @@ Visualisasi ini menunjukkan:
 4. **Hari berangin ekstrem** banyak terjadi pada awal musim semi (Maret) dan musim dingin (Desember).  
 5. Pola ini menggambarkan wilayah dengan **iklim empat musim**, dengan musim dingin yang lebih ekstrem dibandingkan musim panas.  
 
-### 💡 Potensi Pemanfaatan Data Lanjutan
+### 💡 Potensi Pemanfaatan Data Lanjutan  
 - **⚡ Perencanaan Energi**: Prediksi permintaan listrik untuk pemanas & pendingin udara.  
 - **🛍️ Industri Ritel**: Atur stok produk musiman (jaket, kipas angin) sesuai pola cuaca ekstrem.  
 - **🚨 Peringatan Dini**: Bahan untuk warning cuaca berangin ekstrem.  
 - **🏗️ Perencanaan Infrastruktur**: Pertimbangan konstruksi & jaringan listrik.  
 - **🎪 Aktivitas Luar Ruangan**: Panduan event, olahraga, atau pariwisata.  
 
-🇬🇧 **English Version**
-📊 **Chart Interpretation Insight**
-This visualization shows:
+🇬🇧 **English Version**  
+📊 **Chart Interpretation Insight**  
+This visualization shows:  
 1. **Extreme cold days** (<32 °F) occur more frequently than extreme hot days (>90 °F) and extreme windy days (>20 mph).
 2. The number of **extreme cold days** increases sharply at the end of the year (October–December), peaking in November.
 3. **Extreme hot days** only occur in summer (July–August) with relatively few occurrences (≤ 6 days/month).
 4. **Extreme windy days** occur frequently in early spring (March) and winter (December).
 5. This pattern describes a region with **a four-season climate**, with winters being more extreme than summers.
 
-### 💡 Potential for Further Data Utilization
+### 💡 Potential for Further Data Utilization  
 - **⚡ Energy Planning**: Predict electricity demand for heating & air conditioning.
 - **🛍️ Retail Industry**: Adjust seasonal product inventory (jackets, fans) according to extreme weather patterns.
 - **🚨 Early Warning**: Material for extreme wind weather warnings.
